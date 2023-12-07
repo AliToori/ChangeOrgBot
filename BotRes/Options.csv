@@ -1,0 +1,2 @@
+VPNPop,IPSwitch,WaitForCampaign,Delay,FirstNameBox,Captcha,WaitForCaptcha,WaitBetweenActions,VpnCords,CloseCords
+No,Yes,9,5:15,14,Yes,12,1,1250:50,1361:5
